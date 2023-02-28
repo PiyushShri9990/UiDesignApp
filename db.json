@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "name": "hello world",
+      "phoneNumber": "0751234567",
+      "emailAddress": "test@test.com"
+    },
+    {
+      "id": 5,
+      "name": "kd",
+      "phoneNumber": "kd@test.com",
+      "emailAddress": "6789012345"
+    },
+    {
+      "id": 6,
+      "name": "xyz",
+      "phoneNumber": "7890654321",
+      "emailAddress": "xyz@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "tarun",
+      "phoneNumber": "0751234567",
+      "emailAddress": "test@test.com"
+    }
+  ],
+  "signupUsers": [
+    {
+      "name": "Piyush Shrivastava",
+      "emailAddress": "123@test.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "testy",
+      "emailAddress": "testy@test.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "testy2",
+      "emailAddress": "123@test.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "Piyush Shrivastava",
+      "emailAddress": "",
+      "password": "sssdsd",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
